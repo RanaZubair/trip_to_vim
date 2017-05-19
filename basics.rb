@@ -39,4 +39,31 @@ Here i will discuss how to use vim in linux environment
 3. H key moves to left one alphabet.
 4. L key moves to right one alphabet .
 
+..... Faster Movement .....
+
+1. w key moves from word to word
+2. b key moves one word backword
+3. Big W moves complete word to like trip_to_vim
+4. $ moves to the end of the line
+5. ^ carrot sign is used to move to the beginning 
+   of the line(non space)
+6. 0 (zero) moves to very beginning of the line (space)
+7. gg moves to the beginning of the line (space).
+8. Big G (shift + g) moves to the end of the file.
+
+..... Moving Paragraphs .....
+
+1. closing curly braces ( } ) moves to the next paragraph of the file.
+	// Best for journalists and authors 
+
+..... FIND .....
+1. f (first word)
+	// Find the word
+2. F (Big f) (first word) searches in backword.
+3. f (t,) place cursor right before it.
+4. 3fw //find 3rd w in the line.
+5. 3j moves 3 lines down.
+6. 4k moves 4 lines up.
+7. 3gg moves 3 lines down from the beginning of the file.
+
 =end
