@@ -66,4 +66,11 @@ Here i will discuss how to use vim in linux environment
 6. 4k moves 4 lines up.
 7. 3gg moves 3 lines down from the beginning of the file.
 
+..... SET Numbers .....
+
+1. :set number  
+	(This is used to set numbers in vim use this 
+	in command mode)
+2. :14 will goto line number 14
+
 =end
