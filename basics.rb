@@ -50,6 +50,8 @@ Here i will discuss how to use vim in linux environment
 6. 0 (zero) moves to very beginning of the line (space)
 7. gg moves to the beginning of the line (space).
 8. Big G (shift + g) moves to the end of the file.
+9. A key is used to move to end of line and it enters in insert mode.
+10.I key is the alternate of A key enter in insert mode at the beginning.
 
 ..... Moving Paragraphs .....
 
